@@ -1,0 +1,20 @@
+{
+  "name": "-findai",
+  "version": "1.0.0",
+  "description": "FindAi",
+  "main": "app.js",
+  "dependencies": {
+    "_weui-miniprogram@0.2.2@weui-miniprogram": "^0.2.2",
+    "weui-miniprogram": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.weixin.qq.com/bimo/FindAi.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
